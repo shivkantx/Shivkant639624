@@ -28,14 +28,13 @@
   <div style="flex: 1; padding-right: 20px; text-align: left;">
     <ul>
       <li>🚀 Gaining solid experience in <strong>MERN stack projects</strong> and eagerly tackling DSA problems.</li>
-      <li>🌱 Currently learning <strong>App Development</strong> and enhancing my skills in Data Structures & Algorithms.</li>
+      <li>🌱 Currently enhancing my skills in <strong>Data Structures & Algorithms</strong>.</li>
       <li>👯 Looking to collaborate on exciting <strong>App Development</strong> projects!</li>
-      <li>🤝 Open to help with any <strong>MERN stack challenges</strong> or DSA topics.</li>
       <li>👨‍💻 All of my projects are available at <a href="https://portfolio-jqso.onrender.com" target="_blank"><strong>Portfolio</strong></a></li>
-      <li>🤝 feel free to connect! <a href="https://www.linkedin.com/in/rohitkumar3848/" target="_blank">LinkedIn</a></li>
-      <li>💬 Ask me about <strong>MERN Stack & DSA.</strong></li>
-      <li>📫 Reach me at <strong>rohitkumard2003@gmail.com</strong></li>
-      <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1-d2t462WUgJYHvYG0_ItW2LVbmXEnwuE/view" target="_blank"><strong>Resume</strong></a></li>
+      <li>🤝 feel free to connect! <a href="https://www.linkedin.com/in/shiv-kant-036a17289/" target="_blank">LinkedIn</a></li>
+      <li>💬 Ask me about <strong>Django Framework & DSA.</strong></li>
+      <li>📫 Reach me at <strong>shivkant639624@gmail.com</strong></li>
+      <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1n9-oE9aO_QZtSEAp4tKM2fOaaxzBVZkg/view" target="_blank"><strong>Resume</strong></a></li>
       <li>⚡ Fun fact: <strong>I’m like a human debugger—always finding problems, whether in code or in life! 😆</strong></li>
     </ul>
   </div>
@@ -59,22 +58,23 @@
 
 <!-- Social Media Links -->
 <p align="left">
-  <a href="https://linkedin.com/in/rohitkumar3848" target="_blank">
+  <a href="https://www.linkedin.com/in/shiv-kant-036a17289/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rohit_kumar3848" target="_blank">
+  <a href="https://www.instagram.com/shivkant252" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/rohitkumar-nk5ed" target="_blank">
+  <a href="https://youtube.com/@shivkantpal8679?si=3pmQvi1QYfUetNLM" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/rohitkumard2003" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/rohit_kumar38" target="_blank">
+  <a href="https://www.naukri.com/code360/profile/51b51bb6-9490-4ef9-b6d3-fef0fcdf3a60" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Coding_Ninjas_Logo.png" alt="Coding Ninjas" height="30" width="40" />
+</a>
+
+  <a href="https://leetcode.com/u/shivkant252/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/rohitkum8kad" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/shivkantllj0/?ref=header_profile" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
