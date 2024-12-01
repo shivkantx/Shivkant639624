@@ -11,8 +11,8 @@
 
 <!-- Twitter Follow Badge with Username -->
 <p align="left">
-  <a href="https://twitter.com/rohitkumar3848" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rohitkumar3848?logo=twitter&style=for-the-badge" alt="@rohitkumar3848" />
+  <a href="https://www.x.com/shivkantpal123" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/shivkantpal123?logo=twitter&style=for-the-badge" alt="@shivkantpal123" />
   </a>
 </p>
 
