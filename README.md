@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<h1 align="center">Hi 👋, I'm Shiv Kant</h1>
 
 <!-- #################################################################### -->
 <h3 align="center">A Passionate full-stack developer</h3>
@@ -7,17 +7,7 @@
 <br/>
  
 
-<!-- Profile Views Counter -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rohitkumar3848&label=Profile%20views&color=0e75b6&style=flat" alt="rohitkumar3848" />
-</p>
 
-<!-- GitHub Trophies with Custom Styling -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=rohitkumar3848&theme=onedark&no-frame=true&margin-w=15" alt="rohitkumar3848 GitHub Trophies" />
-  </a>
-</p>
 
 <!-- Twitter Follow Badge with Username -->
 <p align="left">
