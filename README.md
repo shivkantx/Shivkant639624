@@ -67,12 +67,7 @@
   <a href="https://youtube.com/@shivkantpal8679?si=3pmQvi1QYfUetNLM" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a> 
-  <a href="https://www.codingninjas.com/codestudio/profile/your-profile-id">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Coding_Ninjas_Logo.png" alt="Coding Ninjas" height="40" />
-  </a>
-
-
-  <a href="https://leetcode.com/u/shivkant252/" target="_blank">
+   <a href="https://leetcode.com/u/shivkant252/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.naukri.com/code360/profile/51b51bb6-9490-4ef9-b6d3-fef0fcdf3a60" target="_blank">
