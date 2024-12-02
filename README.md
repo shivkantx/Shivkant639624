@@ -113,7 +113,7 @@
 
 <!-- Line separator -->
 <div align="center" style="width: 60%; border-bottom: 1px solid #ccc; margin: 10px auto;"></div>
-
+<!-- 
 <p>
   <a href="https://leetcode.com/u/rohit_kumar38/" target="_blank">
     <img align="center" src="https://github.com/rohitkumar3848/rohitkumar3848/blob/main/lc.PNG" height=200px width=800px alt="Badges"/>
@@ -124,7 +124,7 @@
    <img title="Rohit Kumar LeetCode Stats" alt="Rohit Kumar's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=rohit_kumar38&theme=dark" /> 
   </a>
 </p>
-
+-->
 
 
 <!-- #################################################################### -->
