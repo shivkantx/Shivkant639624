@@ -134,7 +134,7 @@
 
 <!-- Line separator -->
 <div align="center" style="width: 60%; border-bottom: 1px solid #ccc; margin: 10px auto;"></div>
-
+<!-- 
  <p>  
   <a href="https://www.hackerrank.com/profile/rohitkumard2003" target="blank">
     <img align="center" src="https://github.com/rohitkumar3848/rohitkumar3848/blob/main/hs.PNG" width=800px alt="Badges"/>
@@ -142,7 +142,7 @@
  </p>
 
 </br>
-
+-->
 <!-- #################################################################### -->
 
 <h2 align="left">📊 GFG Status</h2>
@@ -150,7 +150,7 @@
 
 <!-- Line separator -->
 <div align="center" style="width: 60%; border-bottom: 1px solid #ccc; margin: 10px auto;"></div>
-
+<!-- 
  <p>  
   <a href="https://www.geeksforgeeks.org/user/rohitkum8kad" target="blank">
     <img align="center" src="https://github.com/rohitkumar3848/rohitkumar3848/blob/main/gfg.PNG"  alt="Badges"/>
@@ -158,7 +158,7 @@
  </p>
 
 </br>
-
+-->
 <!-- #################################################################### -->
 
 <h2 align="left">📊 Github Activity Graph</h2>
@@ -166,11 +166,11 @@
 
 <!-- Line separator -->
 <div align="center" style="width: 60%; border-bottom: 1px solid #ccc; margin: 10px auto;"></div>
-
+<!-- 
 <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkumar3848&bg_color=000000&color=9e4c98&line=9e4c98&point=33862d&area=true&hide_border=true" alt="GitHub Activity Graph">
 </div>
-
+-->
 <!-- #################################################################### -->
 
 <div class="center">
