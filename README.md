@@ -85,7 +85,7 @@
 <!-- Line separator -->
 <div align="center" style="width: 60%; border-bottom: 1px solid #ccc; margin: 10px auto;"></div>
 
-<img src="https://skillicons.dev/icons?i=bash,c,cpp,css,typescript,python,bootstrap,git,github,html,java,js,mysql,pycharm,vscode" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=bash,c,cpp,css,python,django,bootstrap,git,github,html,java,js,mysql,pycharm,vscode" alt="My Skills">
 
 </br>
 
