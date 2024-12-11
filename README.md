@@ -3,7 +3,7 @@
 
 <!-- #################################################################### -->
 <h3 align="center">A Passionate full-stack developer</h3>
-<p align="left">I’m <strong>Rohit Kumar</strong>, a passionate software engineer with a keen interest in full-stack development. Currently, I’m working on projects using the <strong>MERN stack</strong> and always eager to learn and grow in the tech world. I enjoy solving problems, collaborating on open-source projects, and developing web applications that make a difference. Looking for opportunities where I can contribute, learn, and grow.</p>
+<p align="left">I’m <strong> Shiv Kant</strong>, Full-stack developer specializing in <strong>  Django </strong> with expertise in building scalable web applications. Proficient in  <strong> Core Java, Python, HTML, CSS, JavaScript, and MySQL, </strong> with strong skills in  <strong> data structures and algorithms (DSA) and database optimization</strong>. Skilled in developing end-to-end solutions with a focus on performance and reliability.</p>
 <br/>
  
 
