@@ -10,7 +10,7 @@
 - 💻 Full-stack developer with a focus on **Django** and strong understanding of **MERN** stack  
 - 🧠 Currently improving skills in **Data Structures & Algorithms (DSA)**  
 - 🔭 Working on exciting **web and app development** projects  
-- 🌐 Portfolio: [View Here](https://portfolio-jqso.onrender.com)  
+
 - 💬 Ask me about **Django, Core Java, Python, and DSA**  
 - 📫 Reach me at **shivkant639624@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/drive/folders/14Em2sXH0NoRNLuP4zHxldU91W7wI5kVh)  
