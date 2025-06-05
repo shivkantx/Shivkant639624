@@ -13,7 +13,7 @@
 - 🌐 Portfolio: [View Here](https://portfolio-jqso.onrender.com)  
 - 💬 Ask me about **Django, Core Java, Python, and DSA**  
 - 📫 Reach me at **shivkant639624@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1n9-oE9aO_QZtSEAp4tKM2fOaaxzBVZkg/view)  
+- 📄 [View My Resume](https://drive.google.com/drive/folders/14Em2sXH0NoRNLuP4zHxldU91W7wI5kVh)  
 - ⚡ Fun fact: I'm a human debugger — always finding and fixing issues!
 
 ---
